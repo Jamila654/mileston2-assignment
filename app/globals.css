@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (min-width:100px) and (max-width:200px) {
+    .head1{
+        font-size: 7px;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .head2{
+        font-size: 7px;
+    }
+    .header{
+        height: 7px;
+    }
+    h1{
+        font-size: x-small;
+    }
+
+    
+}
